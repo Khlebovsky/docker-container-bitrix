@@ -1,0 +1,5 @@
+.idea
+.git
+
+/public/*
+!/public/bitrixsetup.php
